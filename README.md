@@ -1,4 +1,4 @@
 # hellogo
 Minimal go hello world program
 
-- [] test task list
+- [ ] test task list
