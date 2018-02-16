@@ -11,3 +11,4 @@
 - [ ] Push the learning project to github
 - [ ] Download red hat linux and latest VMware
 - [ ] set vmware
+- [ ] Push the learning project to github
