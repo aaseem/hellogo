@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] Create new public and private keys
+- [ ] Create new public and private keys done
 - [ ] Update github with new public and private keys
 - [ ] Set username in google chrome
 - [ ] Learn about how to have a development environment for golang in Windows
